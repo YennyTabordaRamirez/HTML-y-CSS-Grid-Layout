@@ -1,0 +1,21 @@
+header{
+    
+    grid-template-columns: 100px 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "logo  profile" "search search";
+}
+.header-profile{
+    justify-self: end;
+}
+footer {
+    grid-template-columns: auto;
+    grid-template-areas: "social-medias" "profile-autor";
+}
+.footer-social-medias,
+.profile-creator{
+    justify-self: center;
+}
+.movie-title-container h2 {
+    text-align: center;
+    font-size: 2.5rem;
+}
