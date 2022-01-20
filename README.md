@@ -3,4 +3,4 @@ It's a simple practice. It's responsive and don't have a implemented backend. MO
 
 learning html, css, grid layaout and responsive design
 
-Page  https://yennytabordaramirez.github.io/HTML-y-CSS-Grid-LMOVIES with LEELAayout/
+Page  https://yennytabordaramirez.github.io/HTML-y-CSS-Grid-Layout/  MOVIES with LEELA
